@@ -3,6 +3,19 @@
     "version": "0.0.1",
     "main": "dist/qulto-search.js",
     "location": "https://github.com/qultoltd/qulto-search",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/qultoltd/qulto-search"
+    },
+    "keywords": [
+        "angular",
+        "rest",
+        "search"
+    ],
+    "authors": [
+        "Robert Nagy <rnagy@monguz.hu>"
+    ],
+    "license": "MIT",
     "ignore": [
         ".bowerrc",
         ".gitignore",
