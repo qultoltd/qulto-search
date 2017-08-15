@@ -2,6 +2,7 @@
     "name": "Qulto Search",
     "version": "0.0.1",
     "main": "dist/qulto-search.js",
+    "location": "https://github.com/qultoltd/qulto-search",
     "ignore": [
         ".bowerrc",
         ".gitignore",
